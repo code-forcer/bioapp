@@ -1,2 +1,0 @@
-# bioapp
-bioapp codebase
